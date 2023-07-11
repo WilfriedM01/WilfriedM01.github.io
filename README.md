@@ -95,11 +95,15 @@ Double-click on the index file (index.html)
 - Twitter: [@twitterhandle](https://twitter.com/WMuyisa)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/WMuyisa)
 
+👤 **Contributor**
+
+- GitHub: [@githubhandle](https://github.com/Drod86)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Contact me form**
+- [ ] **Dynamic page**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
