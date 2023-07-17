@@ -127,7 +127,7 @@ a:hover {
   background-color: white;
   border: 1px solid #bac0ce;
   border-radius: 0.7rem;
-  padding: 0.7rem;
+  padding: 0.9373rem;
 }
 
 .about-me-item {
@@ -399,6 +399,10 @@ input {
 
 .article-item:hover {
   box-shadow: 0 8px 16px rgba(64, 83, 252, 0.24);
+}
+
+.contact-me-btn:hover {
+  box-shadow: 0 8px 16px rgba(128, 128, 128, 0.6);
 }
 
 @media all and (min-width: 375px) {
